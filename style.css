@@ -49,7 +49,7 @@ article {
 .main h2 {
   padding-top: 120px;
   width: 80%;
-  font-family: "Crete Round";
+  font-family: 'Crete Round', serif;
   font-style: normal;
   font-weight: 400;
   font-size: 56px;
@@ -61,7 +61,7 @@ article {
 .main h3 {
   padding-top: 12px;
   width: 80%;
-  font-family: "Roboto";
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 24px;
@@ -72,7 +72,7 @@ article {
 .main p {
   padding-top: 12px;
   width: 80%;
-  font-family: "Poppins";
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
