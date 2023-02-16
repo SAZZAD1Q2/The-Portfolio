@@ -25,17 +25,17 @@ nav {
 }
 
 .navbar img {
-  margin: 24px 0 12px 20px;
+  margin: 19px 0 12px 20px;
   cursor: pointer;
 }
 
 .navbar .toggler {
-  margin: 24px 38px 19px 0;
+  margin: 19px 38px 12px 0;
 }
 
 /* main part css */
 
-main {
+.main {
   background: #1c1a19;
 }
 
@@ -46,7 +46,7 @@ article {
   align-items: center;
 }
 
-.main h2 {
+.main-article h2 {
   padding-top: 120px;
   width: 80%;
   font-family: 'Crete Round', serif;
@@ -58,7 +58,7 @@ article {
   color: #ff6b00;
 }
 
-.main h3 {
+.main-article h3 {
   padding-top: 12px;
   width: 80%;
   font-family: 'Roboto', sans-serif;
@@ -69,7 +69,7 @@ article {
   color: #fff5e1;
 }
 
-.main p {
+.main-article p {
   padding-top: 12px;
   width: 80%;
   font-family: 'Poppins', sans-serif;
