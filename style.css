@@ -104,8 +104,8 @@ article {
 /* work section start */
 
 .work-cards {
-display: grid;
-grid-template: repeat(6 1fr) / auto;
+  display: grid;
+  grid-template: repeat(6 1fr) / auto;
 }
 
 .work {
@@ -121,7 +121,7 @@ grid-template: repeat(6 1fr) / auto;
 
 .work-title {
   height: 83px;
-  font-family: 'Crete Round', serif;
+  font-family: "Crete Round", serif;
   font-style: normal;
   font-weight: 400;
   font-size: 40px;
@@ -148,7 +148,7 @@ grid-template: repeat(6 1fr) / auto;
 
 .work-article h2 {
   width: 327px;
-  font-family: 'Crete Round', serif;
+  font-family: "Crete Round", serif;
   font-style: normal;
   font-weight: 400;
   font-size: 32px;
@@ -160,7 +160,7 @@ grid-template: repeat(6 1fr) / auto;
   margin-top: 16px;
   width: 327px;
   height: 147px;
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -182,7 +182,7 @@ grid-template: repeat(6 1fr) / auto;
 .work-links li a {
   width: 32px;
   height: 20px;
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 15px;
@@ -196,7 +196,7 @@ button {
   width: 194px;
   background: #ff6b00;
   margin-top: 12px;
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 17px;
@@ -215,7 +215,7 @@ button:hover {
   background: #fff5e1;
   margin-top: 12px;
   padding: 16px;
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 17px;
