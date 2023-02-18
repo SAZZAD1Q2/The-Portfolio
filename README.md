@@ -123,8 +123,8 @@ To run tests, run the following command:
 👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/SAZZAD1Q2/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Twitter: [@twitterhandle](https://twitter.com/SazzadShaikh11/twitterhandle)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sazzad-hossain-054720257/linkedinhandle)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

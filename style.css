@@ -103,6 +103,11 @@ article {
 
 /* work section start */
 
+.work-cards {
+display: grid;
+grid-template: repeat(6 1fr) / auto;
+}
+
 .work {
   margin: 0 auto;
 }
