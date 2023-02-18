@@ -119,7 +119,6 @@ To run tests, run the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
@@ -134,9 +133,9 @@ To run tests, run the following command:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Flexbox]**
+- [ ] **[CSSGrid]**
+- [ ] **[position]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -162,7 +161,9 @@ Feel free to check the [issues page](../../issues/).
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank... Microverse as got the chanch to use their template.
+
+Also thanks to my collaborator for helping me so much.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
